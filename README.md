@@ -26,6 +26,4 @@ Every number Fluxline shows is either backed by real public grid data or clearly
 
 Team Optica: Alexander (product, strategy, backend), Kristian (machine learning), and Tharun (frontend).
 
-## Try it
 
-Live demo: https://east-v-west-hackathon-2026.vercel.app
