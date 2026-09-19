@@ -2,7 +2,7 @@
 
 1st Place, Sustainability Track, 1 of 3 Overall Winners at East v West Hackathon 2026
 
-Built in 48 hours by Team Optica: Alexander, Kristian, and Tharun.
+Built in 60 hours by Team Optica: Alexander, Kristian, and Tharun.
 
 ## We won
 
