@@ -6,7 +6,7 @@ Built in 60 hours by Team Optica: Alexander, Kristian, and Tharun.
 
 ## We won
 
-Out of 19 teams, mostly from schools like MIT, Caltech, Stanford, and Berkeley, Fluxline placed first in the Sustainability track. The hackathon originally planned one winner per track, but the judges changed course and named three overall winners based on score across every track. We were one of them.
+Out of 19 teams, mostly from schools like MIT, Caltech, Stanford, and Berkeley, Fluxline placed first in the Sustainability track and 1/3 overall unranked winners across all tracks. 
 
 Judged by representatives from OpenAI, Google, AWS, Anthropic, Sequoia Capital, Lovable, Lightspeed Ventures, and Underscore VC.
 
