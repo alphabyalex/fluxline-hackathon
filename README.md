@@ -10,8 +10,6 @@ Out of 19 teams, mostly from schools like MIT, Caltech, Stanford, and Berkeley, 
 
 Judged by representatives from OpenAI, Google, AWS, Anthropic, Sequoia Capital, Lovable, Lightspeed Ventures, and Underscore VC.
 
-Prize: $30,000 cash, $100,000 in compute credits and $25,000 in model credits per team member.
-
 ## The problem
 
 Data centers need huge amounts of power, and the regular grid connection process takes years. A new kind of deal has started showing up: connect much sooner, but accept that the grid operator can cut your power when the system is under stress. Nobody tells you how often that will actually happen, so companies are signing multi year, multi million dollar contracts with no real way to size the risk.
