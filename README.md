@@ -10,7 +10,7 @@ Out of 19 teams, mostly from schools like MIT, Caltech, Stanford, and Berkeley, 
 
 Judged by representatives from OpenAI, Google, AWS, Anthropic, Sequoia Capital, Lovable, Lightspeed Ventures, and Underscore VC.
 
-Prize: $30,000 cash, $100,000 in compute credits and $25,000 in model credits per team member, a Whoop band and Meta glasses for each of us, and a referral to Y Combinator's next batch.
+Prize: $30,000 cash, $100,000 in compute credits and $25,000 in model credits per team member.
 
 ## The problem
 
